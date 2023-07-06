@@ -2,6 +2,7 @@
 Judul Buku: "Menguasai Strapi: Panduan Komprehensif untuk CMS Open Source Headless"
 
 Daftar Isi:
+
 [1. Pengantar](https://github.com/abdanzamzam/ebook-strapi/tree/main/pengantar)
 
 2. Strapi
