@@ -24,4 +24,4 @@ Selamat membaca dan semoga sukses dalam perjalanan Anda dengan Strapi!
 
 Penulis
 
-Abdan Zam Zam Ramadhan
+[Abdan Zam Zam Ramadhan](https://www.linkedin.com/in/abdanzamzam/)
