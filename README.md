@@ -1,5 +1,6 @@
 # Ebook Strapi Bahasa Indonesia Lengkap
 Judul Buku: "Menguasai Strapi: Panduan Komprehensif untuk CMS Open Source Headless"
+
 Daftar Isi:
 1. Pengantar
 
